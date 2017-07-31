@@ -1,6 +1,6 @@
 # Site settings
-title: Your awesome title
-email: your-email@domain.com
+title: Yong, Sangeon
+email: koragon2@kaist.ac.kr
 baseurl: "" # the subpath of your site, e.g. /blog
 #url: "http://yourdomain.com" # the base hostname & protocol for your site
 
@@ -8,9 +8,9 @@ baseurl: "" # the subpath of your site, e.g. /blog
 description: One sentence introducing yourself or what you do
 
 # Social icons
-facebook: username
-linkedin: username
-github: username
+#facebook: username
+linkedin: https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact_info%3BDuOKHOV3RPKtiBi4lYfDyg%3D%3D
+github: seyong92
 deviantart: username
 codepen: username
 

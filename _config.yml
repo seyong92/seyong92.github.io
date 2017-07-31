@@ -5,14 +5,14 @@ baseurl: "" # the subpath of your site, e.g. /blog
 #url: "http://yourdomain.com" # the base hostname & protocol for your site
 
 # Sidebar settings
-description: One sentence introducing yourself or what you do
+description: Ph.D Student in GSCT, KAIST.
 
 # Social icons
 #facebook: username
 linkedin: sangeon-yong-555b2a106
 github: seyong92
-deviantart: username
-codepen: username
+#deviantart: username
+#codepen: username
 
 footer: © Taken theme
 

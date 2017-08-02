@@ -55,19 +55,33 @@ input[data-function*='swipe'] {
 }
 
 label[data-function*='swipe'] {
-  position: absolute;
-  color: #8C8C8C;
-  top: 30px;
-  left: 30px;
-  z-index: 1;
-  display: block;
-  text-align: center;
-  transform: translate3d(0,0,0);
-  transition: transform .3s;
-}
+    position: absolute;
+    color: #8C8C8C;
+    top: 30px;
+    left: 30px;
+    z-index: 1;
+    display: block;
+    text-align: center;
+    transform: translate3d(-120px,0,0);
+    transition: transform .3s;
+  }
 
-input[data-function*='swipe']:checked ~ label[data-function*='swipe'] {
-  transform: translate3d(260px,0,0);
+@media (max-width: 768px ) {
+  label[data-function*='swipe'] {
+    position: absolute;
+    color: #8C8C8C;
+    top: 30px;
+    left: 30px;
+    z-index: 1;
+    display: block;
+    text-align: center;
+    transform: translate3d(0,0,0);
+    transition: transform .3s;
+  }
+
+  input[data-function*='swipe']:checked ~ label[data-function*='swipe'] {
+    transform: translate3d(260px,0,0);
+  }
 }
 
 #social-icons
@@ -93,20 +107,6 @@ input[data-function*='swipe']:checked ~ label[data-function*='swipe'] {
 }
 
 /* ------------ Content Style -------------- */
-
-.content {
-  flex: 1;
-  padding: 80px 30px;
-  transform: translate3d(180px,0,0);
-  transition: transform .3s;
-
-  font-family: "Open Sans", Arial, sans-serif;
-  background-color: #fff;
-  font-size: 16px;
-  line-height: 1.5em;
-  color: #666;
-  font-weight: 300;
-}
 
 .content hr {
     margin-top: 20px;
@@ -202,6 +202,20 @@ input[data-function*='swipe']:checked ~ .sidebar {
   }
 }
 
+.content {
+    flex: 1;
+    padding: 80px 30px;
+    transform: translate3d(180px,0,0);
+    transition: transform .3s;
+
+    font-family: "Open Sans", Arial, sans-serif;
+    background-color: #fff;
+    font-size: 16px;
+    line-height: 1.5em;
+    color: #666;
+    font-weight: 300;
+  }
+
 .sidebar {
   transform: translate3d(0px,0px,0px);
   position: absolute;
@@ -223,6 +237,20 @@ input[data-function*='swipe']:checked ~ .sidebar {
         width: 100%;
       }
     }
+  }
+
+  .content {
+    flex: 1;
+    padding: 80px 30px;
+    transform: translate3d(0,0,0);
+    transition: transform .3s;
+
+    font-family: "Open Sans", Arial, sans-serif;
+    background-color: #fff;
+    font-size: 16px;
+    line-height: 1.5em;
+    color: #666;
+    font-weight: 300;
   }
 
   .sidebar {

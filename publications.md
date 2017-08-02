@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Publications
+side_name: Publications
 permalink: "/publications/"
 order: 2
 ---

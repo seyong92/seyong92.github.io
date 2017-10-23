@@ -7,7 +7,7 @@ order: 3
 
 <h3> Singing Expression Transfer Example </h3><br />
 <ul type="square">
-	<li><h4>example 1: let it go</h4>
+	<li><h4>Example 1: let it go</h4>
 	<em>Source: <audio controls><source src="l-joo.wav" type="audio/wav"></audio></em><br />
 	<em>Target: <audio controls><source src="l-byul.wav" type="audio/wav"></audio></em><br />
 	<em>Align with const-Q transform with max filter: <audio controls><source src="l-joo-after-constqmax.wav" type="audio/wav"></audio></em><br />
@@ -17,9 +17,13 @@ order: 3
 
 	<br />
 
-	<li><h4>ForceClicks: Enabling Efficient Button Interaction with Single Finger Touch</h4>
-	<em><strong>Sangeon Yong</strong>, Edward Jangwon Lee, Roshan Peiris, Liwei Chan, Juhan Nam</em><br />
-	Proceedings of the 11th International Conference on Tangible, Embedded, and Embodied Interaction (TEI), 2017 <a href="p489-yong.pdf" target="_blank">[pdf]</a> <a href="https://www.youtube.com/watch?v=im5fEsX6yHE" target="_blank">[video]</a></li>
+	<li><h4>Example 2: cherry blossom ending</h4>
+	<em>Source: <audio controls><source src="c-heung.wav" type="audio/wav"></audio></em><br />
+	<em>Target: <audio controls><source src="c-tae.wav" type="audio/wav"></audio></em><br />
+	<em>Align with const-Q transform with max filter: <audio controls><source src="c-heung-after-constqmax.wav" type="audio/wav"></audio></em><br />
+	<em>Align with phoneme classifier: <audio controls><source src="c-heung-after-phone.wav" type="audio/wav"></audio></em><br />
+	<em>Align with const-Q transform with max filter and phoneme classifier: <audio controls><source src="c-heung-after-constqmaxphonemax.wav" type="audio/wav"></audio></em>
+	</li>
 </ul>
 
 <hr>

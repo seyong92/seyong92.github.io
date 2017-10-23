@@ -8,8 +8,12 @@ order: 3
 <h3> Singing Expression Transfer Example </h3><br />
 <ul type="square">
 	<li><h4>example 1: let it go</h4>
-	<em>source: <audio controls><source src="l-joo.wav" type="audio/wav"></audio></em><br />
-	Proceedings of the 13th International Symposium on Computer Music Multidisciplinary Research (CMMR), 2017, <a href="40_CMMR_2017_paper_51.pdf" target="_blank">[pdf]</a> <a href="https://youtu.be/quxAEBEp97Q" target="_blank">[video]</a></li>
+	<em>Source: <audio controls><source src="l-joo.wav" type="audio/wav"></audio></em><br />
+	<em>Target: <audio controls><source src="l-byul.wav" type="audio/wav"></audio></em><br />
+	<em>Align with const-Q transform with max filter: <audio controls><source src="l-joo-after-constqmax" type="audio/wav"></audio></em><br />
+	<em>Align with phoneme classifier: <audio controls><source src="l-joo-after-phone" type="audio/wav"></audio></em><br />
+	<em>Align with const-Q transform with max filter and phoneme classifier: <audio controls><source src="l-joo-after-constqmaxphonemax" type="audio/wav"></audio></em>
+	</li>
 
 	<br />
 

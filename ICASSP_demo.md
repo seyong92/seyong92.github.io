@@ -23,6 +23,7 @@ order: 3
 	<em>Align with const-Q transform with max filter: <audio controls><source src="c-heung-after-constqmax.wav" type="audio/wav"></audio></em><br />
 	<em>Align with phoneme classifier: <audio controls><source src="c-heung-after-phone.wav" type="audio/wav"></audio></em><br />
 	<em>Align with const-Q transform with max filter and phoneme classifier: <audio controls><source src="c-heung-after-constqmaxphonemax.wav" type="audio/wav"></audio></em>
+	</li>
 
 	<br />
 

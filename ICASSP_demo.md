@@ -10,9 +10,9 @@ order: 3
 	<li><h4>example 1: let it go</h4>
 	<em>Source: <audio controls><source src="l-joo.wav" type="audio/wav"></audio></em><br />
 	<em>Target: <audio controls><source src="l-byul.wav" type="audio/wav"></audio></em><br />
-	<em>Align with const-Q transform with max filter: <audio controls><source src="l-joo-after-constqmax" type="audio/wav"></audio></em><br />
-	<em>Align with phoneme classifier: <audio controls><source src="l-joo-after-phone" type="audio/wav"></audio></em><br />
-	<em>Align with const-Q transform with max filter and phoneme classifier: <audio controls><source src="l-joo-after-constqmaxphonemax" type="audio/wav"></audio></em>
+	<em>Align with const-Q transform with max filter: <audio controls><source src="l-joo-after-constqmax.wav" type="audio/wav"></audio></em><br />
+	<em>Align with phoneme classifier: <audio controls><source src="l-joo-after-phone.wav" type="audio/wav"></audio></em><br />
+	<em>Align with const-Q transform with max filter and phoneme classifier: <audio controls><source src="l-joo-after-constqmaxphonemax.wav" type="audio/wav"></audio></em>
 	</li>
 
 	<br />

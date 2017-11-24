@@ -23,7 +23,7 @@ order: 2
 <ul type="square">
 	<li><h4>Transferring Singing Expressions from One Voice to Another</h4>
 	<em><strong>Sangeon Yong</strong></em><br />
-	M.S. thesis, KAIST, 2017</li>
+	M.S. thesis, KAIST, 2017 <a href="master-thesis.pdf" target="_blank">[pdf]</a></li>
 </ul>
 
 <hr>

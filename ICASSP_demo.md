@@ -3,7 +3,7 @@ layout: page
 sitemap: false
 side_name: ICASSP_Demo
 permalink: "/ICASSP_Audio/"
-redirect_from: "/ICASSP2018/"
+redirect_from: /ICASSP2018/
 order: 3
 ---
 

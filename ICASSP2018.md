@@ -1,5 +1,5 @@
 ---
 layout: redirected
-permalink: "/ICASSP2018/"
+permalink: "/ICASSP20180/"
 redirect_to: "/ICASSP_Audio/"
 ---

@@ -1,7 +1,7 @@
 ---
 layout: page
 sitemap: false
-
+side_name: ICASSP_Demo
 permalink: "/ICASSP_Audio/"
 order: 3
 ---

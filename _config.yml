@@ -20,3 +20,7 @@ footer: © Taken theme
 
 # Build settings
 markdown: kramdown
+
+# redirect plugin
+gems:
+  - jekyll-redirect-from

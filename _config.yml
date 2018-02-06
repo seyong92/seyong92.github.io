@@ -24,3 +24,7 @@ markdown: kramdown
 # redirect plugin
 gems:
   - jekyll-redirect-from
+plugins:
+  - jekyll-redirect-from
+whitelist:
+  - jekyll-redirect-from

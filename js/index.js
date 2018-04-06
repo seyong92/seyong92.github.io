@@ -1,4 +1,4 @@
-(function() {
+/*(function() {
 	function Flickr() {
 		this.init();
 	}
@@ -48,4 +48,4 @@
 
 	});
 
-})();
+})();*/

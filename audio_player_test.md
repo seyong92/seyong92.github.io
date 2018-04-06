@@ -1,7 +1,7 @@
 ---
 layout: page
 side_name: Audio_Player_Test
-permalink: "/ICASSP_Audio/"
+permalink: "/APT/"
 order: 4
 ---
 

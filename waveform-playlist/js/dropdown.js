@@ -22,7 +22,7 @@ window.onclick = function(event) {
 function loadSong(songName) {
   switch (songName) {
     case 1: // let it go
-      initPlaylist();
+      //initPlaylist();
       playlist.load([
         {
           "src": "media/audio/Vocals30.mp3",
@@ -40,7 +40,7 @@ function loadSong(songName) {
       });
       break;
     case 2: // love yourself
-      initPlaylist();
+      //initPlaylist();
       playlist.load([
         {
           "src": "media/audio/PianoSynth30.mp3",
@@ -56,10 +56,10 @@ function loadSong(songName) {
       });
       break;
     case 3: // drunken truth
-      initPlaylist();
+      //initPlaylist();
       break;
     case 4: // cherry blossom ending
-      initPlaylist();
+      //initPlaylist();
   }
 }
 

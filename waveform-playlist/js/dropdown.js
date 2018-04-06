@@ -64,7 +64,7 @@ function loadSong(songName) {
 }
 
 function initPlaylist() {
-  playlist = WaveformPlaylist.init({
+  playlist.init({
     samplesPerPixel: 1000,
     waveHeight: 100,
     container: document.getElementById("playlist"),

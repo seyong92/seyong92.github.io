@@ -22,7 +22,7 @@ window.onclick = function(event) {
 function loadSong(songName) {
   switch (songName) {
     case 1: // let it go
-      initPlaylist();
+      playlist.clear();
       playlist.load([
         {
           "src": "media/audio/Vocals30.mp3",
@@ -40,7 +40,7 @@ function loadSong(songName) {
       });
       break;
     case 2: // love yourself
-      initPlaylist();
+      playlist.clear();
       playlist.load([
         {
           "src": "media/audio/PianoSynth30.mp3",
@@ -56,14 +56,14 @@ function loadSong(songName) {
       });
       break;
     case 3: // drunken truth
-      initPlaylist();
+      playlist.clear();
       break;
     case 4: // cherry blossom ending
-      initPlaylist();
+      playlist.clear();
   }
 }
 
-function initPlaylist() {
+/*function initPlaylist() {
   playlist.init({
     samplesPerPixel: 1000,
     waveHeight: 100,
@@ -79,4 +79,4 @@ function initPlaylist() {
     },
     zoomLevels: [500, 1000, 3000, 5000]
   });
-}
+}*/

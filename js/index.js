@@ -14,7 +14,7 @@
 			this.getJSON();
 		},
 		getJSON: function() {
-			var src = "http://api.flickr.com/services/feeds/photoset.gne?nsid=" + this.user + "&set=" + this.album + "&format=json&jsoncallback=getPhotos";
+			var src = "https://api.flickr.com/services/feeds/photoset.gne?nsid=" + this.user + "&set=" + this.album + "&format=json&jsoncallback=getPhotos";
 			var script = document.createElement( "script" );
 				script.src = src;
 				document.body.appendChild( script );

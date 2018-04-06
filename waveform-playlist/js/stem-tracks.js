@@ -14,7 +14,7 @@ var playlist = WaveformPlaylist.init({
   zoomLevels: [500, 1000, 3000, 5000]
 });
 
-playlist.load([
+/*playlist.load([
   {
     "src": "media/audio/Vocals30.mp3",
     "name": "Vocals",
@@ -37,4 +37,4 @@ playlist.load([
   }
 ]).then(function() {
   //can do stuff with the playlist.
-});
+});*/

@@ -96,7 +96,7 @@ var WaveformPlaylist =
 	    samplesPerPixel: 4096,
 	    mono: true,
 	    fadeType: 'logarithmic',
-	    exclSolo: false,
+	    exclSolo: true,
 	    timescale: false,
 	    controls: {
 	      show: false,

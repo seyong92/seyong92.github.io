@@ -27,9 +27,8 @@ function loadSong(songName) {
         {
           "src": "media/audio/Vocals30.mp3",
           "name": "Vocals",
-          "gain": 0.75,
           "muted": false,
-          "soloed": false
+          "soloed": true
         },
         {
           "src": "media/audio/Guitar30.mp3",

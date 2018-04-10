@@ -43,7 +43,7 @@ function loadSong(songName) {
           "name": "Phoneme Classifier"
         },
         {
-          "src": "media/audio/WORLD/mp3/ljqp.wav",
+          "src": "media/audio/WORLD/mp3/ljqp.mp3",
           "name": "Const-Q Trans + Phoneme Classifier"
         }
       ]).then(function() {

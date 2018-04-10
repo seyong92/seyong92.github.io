@@ -25,14 +25,26 @@ function loadSong(songName) {
       playlist.clear();
       playlist.load([
         {
-          "src": "media/audio/Vocals30.mp3",
-          "name": "Vocals",
+          "src": "media/ICASSP_Audio/l-joo.wav",
+          "name": "source",
           "muted": false,
           "soloed": true
         },
         {
-          "src": "media/audio/Guitar30.mp3",
-          "name": "Guitar"
+          "src": "media/ICASSP_Audio/l-byul.mp3",
+          "name": "target"
+        },
+        {
+          "src": "media/ICASSP_Audio/l-joo-after-constqmax.wav",
+          "name": "Const-Q Max"
+        },
+        {
+          "src": "media/ICASSP_Audio/l-joo-after-phone.wav",
+          "name": "Phoneme Classifier"
+        },
+        {
+          "src": "media/ICASSP_Audio/l-joo-after-constqmaxphonemax.wav",
+          "name": "Const-Q Max + Phoneme Classifier"
         }
       ]).then(function() {
         //can do stuff with the playlist.

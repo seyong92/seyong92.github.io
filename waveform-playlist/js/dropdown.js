@@ -31,21 +31,21 @@ function loadSong(songName) {
           "soloed": true
         },
         {
-          "src": "media/ICASSP_Audio/l-byul.mp3",
+          "src": "media/ICASSP_Audio/l-byul.wav",
           "name": "target"
         },
         {
           "src": "media/ICASSP_Audio/l-joo-after-constqmax.wav",
           "name": "Const-Q Max"
         },
-        {
+        /*{
           "src": "media/ICASSP_Audio/l-joo-after-phone.wav",
           "name": "Phoneme Classifier"
         },
         {
           "src": "media/ICASSP_Audio/l-joo-after-constqmaxphonemax.wav",
           "name": "Const-Q Max + Phoneme Classifier"
-        }
+        }*/
       ]).then(function() {
         //can do stuff with the playlist.
       });

@@ -23,11 +23,11 @@ order: 4
   <div class="wrapper">
     <article class="post">
       <header class="post-header">
-        <h1 class="post-title">Stem Tracks</h1>
-        <p class="lead">Multitrack scheduling allows to layer audio for simultaneous playback. Mute, solo, or set different volume levels for each audio track that makes up the composition. Control the master volume of the mix.</p>
+        <h1 class="post-title">Singing Expression Transfer</h1>
+        <p class="lead">We present a vocal processing algorithm to automatically transfer singing expressions from one voice to another for a given song. Depending on singers' competence, a song can be rendered with great variations in terms of local tempo, pitch and dynamics. The proposed method temporally aligns a pair of singing voices using melodic and lyrical features that they have in common. Then, it conducts time-scale modification on the source voice according to the time-stretching ratio from the alignment result after smoothing. Once the two voices are aligned, the method modifies pitch and energy expressions of the source voice in a frame-by-frame manner using a pitch-synchronous overlap-add algorithm and a simple amplitude envelope matching. We designed our experiment to transfer singing expressions from a highly technical singer to a plain singer. The results show that our proposed method improves the singing quality effectively.</p>
       </header>
       <div class="song-select" style="padding-bottom: 50px">
-        <button onclick="dropdownMenu()" class="dropbtn">Dropdown2</button>
+        <button onclick="dropdownMenu()" class="dropbtn">Select Song</button>
           <div id="dropdown" class="dropdown-contentlist" style="z-index:100">
             <button onclick="loadSong(1)" class="dropdown-content">Let it go (Frozen OST) </button>
             <button onclick="loadSong(2)" class="dropdown-content">Love yourself (Justin Bieber) </button>
@@ -65,6 +65,7 @@ order: 4
 </form>-->
 <div class="sound-status"></div>
 <div class="loading-data"></div>
+<p>The audio player used for this demo is modified version of <a href="https://github.com/naomiaro/waveform-playlist" target="_blank">waveform-playlist</a>.</p>
       </div>
     </article>
   </div>

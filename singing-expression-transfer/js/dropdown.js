@@ -72,7 +72,7 @@ function loadSong(songName) {
           "name": "Phoneme Classifier"
         },
         {
-          "src": "media/audio/WORLD/mp3/yyqp.wav",
+          "src": "media/audio/WORLD/mp3/yyqp.mp3",
           "name": "Const-Q Trans + Phoneme Classifier"
         }
       ]).then(function() {
@@ -101,7 +101,7 @@ function loadSong(songName) {
           "name": "Phoneme Classifier"
         },
         {
-          "src": "media/audio/WORLD/mp3/dyqp.wav",
+          "src": "media/audio/WORLD/mp3/dyqp.mp3",
           "name": "Const-Q Trans + Phoneme Classifier"
         }
       ]).then(function() {
@@ -130,7 +130,7 @@ function loadSong(songName) {
           "name": "Phoneme Classifier"
         },
         {
-          "src": "media/audio/WORLD/mp3/chqp.wav",
+          "src": "media/audio/WORLD/mp3/chqp.mp3",
           "name": "Const-Q Trans + Phoneme Classifier"
         }
       ]).then(function() {

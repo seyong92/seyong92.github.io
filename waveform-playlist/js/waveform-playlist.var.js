@@ -1593,6 +1593,7 @@ var WaveformPlaylist =
 	    this.tracks = [];
 	    this.soloedTracks = [];
 	    this.mutedTracks = [];
+	    this.comparedTracks = [];
 	    this.playoutPromises = [];
 	
 	    this.cursor = 0;
@@ -1833,6 +1834,12 @@ var WaveformPlaylist =
 	        _this2.adjustTrackPlayout();
 	        _this2.drawRequest();
 	      });
+
+	      ee.on('compare', function (track) {
+	      	_this2.compareTrack(track);
+	      	_this2.adjustTrackPlayout();
+	      	_this2.drawRequest();
+	      });
 	
 	      ee.on('volumechange', function (volume, track) {
 	        track.setGainLevel(volume / 100);
@@ -1930,6 +1937,7 @@ var WaveformPlaylist =
 	          var cueOut = info.cueout || audioBuffer.duration;
 	          var gain = info.gain || 1;
 	          var muted = info.muted || false;
+	          var compared = info.compared || false;
 	          var soloed = info.soloed || false;
 	          var selection = info.selected;
 	          var peaks = info.peaks || { type: 'WebAudio', mono: _this3.mono };
@@ -2164,6 +2172,25 @@ var WaveformPlaylist =
 	      }
 	    }
 	  }, {
+	  	key: 'compareTrack',
+	  	value: function compareTrack(track) {
+	  	  var index = this.comparedTracks.indexOf(track);
+
+	  	  if (index > -1) {
+	  		if (this.comparedTracks.length == 1) {
+	  		  this.comparedTracks.splice(index, 1);
+	  		} else {
+	  		  this.comparedTracks = [track];
+	  		}
+	  	  } else {
+	  	  	if (this.comparedTracks.length < 2) {
+	  	  	  this.comparedTracks.push(track);
+	  	  	} else {
+	  	  	  this.comparedTracks = [track];
+	  	  	}
+	  	  }
+	  	}
+	  }, {
 	    key: 'adjustTrackPlayout',
 	    value: function adjustTrackPlayout() {
 	      var _this6 = this;
@@ -2183,8 +2210,12 @@ var WaveformPlaylist =
 	    key: 'shouldTrackPlay',
 	    value: function shouldTrackPlay(track) {
 	      var shouldPlay = void 0;
-	      // if there are solo tracks, only they should play.
-	      if (this.soloedTracks.length > 0) {
+	      if (this.comparedTracks.length == 2) {
+	      	shouldPlay = false;
+	      	if (this.comparedTracks.indexOf(track) > -1) {
+	      	  shouldPlay = true;
+	      	}
+	      }	else if (this.soloedTracks.length > 0) { // if there are solo tracks, only they should play.
 	        shouldPlay = false;
 	        if (this.soloedTracks.indexOf(track) > -1) {
 	          shouldPlay = true;
@@ -2347,6 +2378,7 @@ var WaveformPlaylist =
 	        _this11.tracks = [];
 	        _this11.soloedTracks = [];
 	        _this11.mutedTracks = [];
+	        _this11.comparedTracks = [];
 	        _this11.playoutPromises = [];
 	
 	        _this11.cursor = 0;
@@ -2522,7 +2554,8 @@ var WaveformPlaylist =
 	          isActive: _this16.isActiveTrack(track),
 	          shouldPlay: _this16.shouldTrackPlay(track),
 	          soloed: _this16.soloedTracks.indexOf(track) > -1,
-	          muted: _this16.mutedTracks.indexOf(track) > -1
+	          muted: _this16.mutedTracks.indexOf(track) > -1,
+	          compared: _this16.comparedTracks.indexOf(track) > -1
 	        }));
 	      });
 	
@@ -5822,17 +5855,18 @@ var WaveformPlaylist =
 	
 	      var muteClass = data.muted ? '.active' : '';
 	      var soloClass = data.soloed ? '.active' : '';
+	      var compareClass = data.compared ? '.active' : '';
 	      var numChan = this.peaks.data.length;
 	
 	      return (0, _h2.default)('div.controls', {
 	        attributes: {
 	          style: 'height: ' + numChan * data.height + 'px; width: ' + data.controls.width + 'px; position: absolute; left: 0; z-index: 10;'
 	        }
-	      }, [(0, _h2.default)('header', [this.name]), (0, _h2.default)('div.btn-group', [(0, _h2.default)('span.btn.btn-default.btn-xs.btn-mute' + muteClass, {
+	      }, [(0, _h2.default)('header', [this.name]), (0, _h2.default)('div.btn-group', [(0, _h2.default)('span.btn.btn-default.btn-xs.btn-compare' + compareClass, {
 	        onclick: function onclick() {
-	          _this2.ee.emit('mute', _this2);
+	          _this2.ee.emit('compare', _this2);
 	        }
-	      }, ['Mute']), (0, _h2.default)('span.btn.btn-default.btn-xs.btn-solo' + soloClass, {
+	      }, ['Compare']), (0, _h2.default)('span.btn.btn-default.btn-xs.btn-solo' + soloClass, {
 	        onclick: function onclick() {
 	          _this2.ee.emit('solo', _this2);
 	        }

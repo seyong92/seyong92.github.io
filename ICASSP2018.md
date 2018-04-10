@@ -1,5 +1,5 @@
 ---
 layout: redirected
 permalink: "/ICASSP2018/"
-redirect_to: "/ICASSP_Audio/"
+redirect_to: "/singing-expression-transfer/"
 ---

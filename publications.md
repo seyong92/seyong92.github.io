@@ -8,19 +8,20 @@ order: 2
 <ul type="square">
 	<li><h4>Singing Expression Transfer from One Voice to Another for a Given Song</h4>
 	<em><strong>Sangeon Yong</strong>, Juhan Nam</em><br />
-	Proceedings of the IEEE International Conference on Acoustics, Speech and Singal Processing (ICASSP), 2018, Accepted</li>
+	Proceedings of the IEEE International Conference on Acoustics, Speech and Singal Processing (ICASSP), 2018, <a href="yong_ICASSP_2018.pdf" target="_blank">[pdf]</a> <!--<a href="">[demo]</a>-->
+	</li>
 
 	<br />
 
 	<li><h4>Use the Force: Incorporating Touch Force Sensors into Mobile Music Interaction</h4>
 	<em>Edward Jangwon Lee, <strong>Sangeon Yong</strong>, Soonbeom Choi, Roshan Peiris, Liwei Chan, Juhan Nam</em><br />
-	Proceedings of the 13th International Symposium on Computer Music Multidisciplinary Research (CMMR), 2017, <a href="40_CMMR_2017_paper_51.pdf" target="_blank">[pdf]</a> <a href="https://youtu.be/quxAEBEp97Q" target="_blank">[video]</a></li>
+	Proceedings of the 13th International Symposium on Computer Music Multidisciplinary Research (CMMR), 2017, <a href="yong_CMMR_2017.pdf" target="_blank">[pdf]</a> <a href="https://youtu.be/quxAEBEp97Q" target="_blank">[video]</a></li>
 
 	<br />
 
 	<li><h4>ForceClicks: Enabling Efficient Button Interaction with Single Finger Touch</h4>
 	<em><strong>Sangeon Yong</strong>, Edward Jangwon Lee, Roshan Peiris, Liwei Chan, Juhan Nam</em><br />
-	Proceedings of the 11th International Conference on Tangible, Embedded, and Embodied Interaction (TEI), 2017 <a href="p489-yong.pdf" target="_blank">[pdf]</a> <a href="https://www.youtube.com/watch?v=im5fEsX6yHE" target="_blank">[video]</a></li>
+	Proceedings of the 11th International Conference on Tangible, Embedded, and Embodied Interaction (TEI), 2017 <a href="yong_TEI_2017.pdf" target="_blank">[pdf]</a> <a href="https://www.youtube.com/watch?v=im5fEsX6yHE" target="_blank">[video]</a></li>
 </ul>
 
 <hr>

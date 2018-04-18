@@ -6,4 +6,4 @@ permalink: "/research/"
 order: 1
 ---
 
-![singing-expression-transfer](/sie_thumb.jpg){:class="img-responsive"}
+![singing-expression-transfer](sie_thumb.jpg){:class="img-responsive"}

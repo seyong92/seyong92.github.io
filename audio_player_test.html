@@ -22,9 +22,12 @@ permalink: "/singing-expression-transfer/"
       <header class="post-header">
         <h2 class="post-title">Singing Expression Transfer</h2>
         <hr>
-        <p class="lead">We present a vocal processing algorithm to automatically transfer singing expressions from one voice to another for a given song. Depending on singers' competence, a song can be rendered with great variations in terms of local tempo, pitch and dynamics. The proposed method temporally aligns a pair of singing voices using melodic and lyrical features that they have in common. Then, it conducts time-scale modification on the source voice according to the time-stretching ratio from the alignment result after smoothing. Once the two voices are aligned, the method modifies pitch and energy expressions of the source voice in a frame-by-frame manner using a pitch-synchronous overlap-add algorithm and a simple amplitude envelope matching. We designed our experiment to transfer singing expressions from a highly technical singer to a plain singer. The results show that our proposed method improves the singing quality effectively.</p>
       </header>
-      <div class="song-select" style="padding-bottom: 50px">
+      <div class="post-content">
+        <p class="lead">We present a vocal processing algorithm to automatically transfer singing expressions from one voice to another for a given song. Depending on singers' competence, a song can be rendered with great variations in terms of local tempo, pitch and dynamics. The proposed method temporally aligns a pair of singing voices using melodic and lyrical features that they have in common. Then, it conducts time-scale modification on the source voice according to the time-stretching ratio from the alignment result after smoothing. Once the two voices are aligned, the method modifies pitch and energy expressions of the source voice in a frame-by-frame manner using a pitch-synchronous overlap-add algorithm and a simple amplitude envelope matching. We designed our experiment to transfer singing expressions from a highly technical singer to a plain singer. The results show that our proposed method improves the singing quality effectively.</p>
+
+
+        <div class="song-select" style="padding-bottom: 50px">
         <button onclick="dropdownMenu()" class="dropbtn">Select Song</button>
           <div id="dropdown" class="dropdown-contentlist" style="z-index:100">
             <button onclick="loadSong(1)" class="dropdown-content">Let it go (Frozen OST) </button>
@@ -36,7 +39,7 @@ permalink: "/singing-expression-transfer/"
             <a href="#contact">Contact</a>-->
           </div>
       </div>
-      <div class="post-content">
+        
         <div id="top-bar" class="playlist-top-bar">
   <div class="playlist-toolbar">
     <div class="btn-group">

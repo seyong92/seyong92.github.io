@@ -8,14 +8,14 @@ order: 2
 <ul type="square">
 	<li><h4>Singing Expression Transfer from One Voice to Another for a Given Song</h4>
 	<em><strong>Sangeon Yong</strong>, Juhan Nam</em><br />
-	Proceedings of the IEEE International Conference on Acoustics, Speech and Singal Processing (ICASSP), 2018, <a href="yong_ICASSP_2018.pdf" target="_blank">[pdf]</a> <!--<a href="">[demo]</a>-->
+	Proceedings of the IEEE International Conference on Acoustics, Speech and Singal Processing (ICASSP), 2018 <a href="yong_ICASSP_2018.pdf" target="_blank">[pdf]</a> <!--<a href="">[demo]</a>-->
 	</li>
 
 	<br />
 
 	<li><h4>Use the Force: Incorporating Touch Force Sensors into Mobile Music Interaction</h4>
 	<em>Edward Jangwon Lee, <strong>Sangeon Yong</strong>, Soonbeom Choi, Roshan Peiris, Liwei Chan, Juhan Nam</em><br />
-	Proceedings of the 13th International Symposium on Computer Music Multidisciplinary Research (CMMR), 2017, <a href="yong_CMMR_2017.pdf" target="_blank">[pdf]</a> <a href="https://youtu.be/quxAEBEp97Q" target="_blank">[video]</a></li>
+	Proceedings of the 13th International Symposium on Computer Music Multidisciplinary Research (CMMR), 2017 <a href="yong_CMMR_2017.pdf" target="_blank">[pdf]</a> <a href="https://youtu.be/quxAEBEp97Q" target="_blank">[video]</a></li>
 
 	<br />
 

@@ -25,25 +25,25 @@ function loadSong(songName) {
       playlist.clear();
       playlist.load([
         {
-          "src": "media/audio/WORLD/mp3/lj.mp3",
+          "src": "media/audio/PSOLA/mp3/lj.mp3",
           "name": "Source",
           "muted": false,
           "soloed": true
         },
         {
-          "src": "media/audio/WORLD/mp3/lb.mp3",
+          "src": "media/audio/PSOLA/mp3/lb.mp3",
           "name": "Target"
         },
         {
-          "src": "media/audio/WORLD/mp3/ljq.mp3",
+          "src": "media/audio/PSOLA/mp3/ljq.mp3",
           "name": "Const-Q Trans"
         },
         {
-          "src": "media/audio/WORLD/mp3/ljp.mp3",
+          "src": "media/audio/PSOLA/mp3/ljp.mp3",
           "name": "Phoneme Classifier"
         },
         {
-          "src": "media/audio/WORLD/mp3/ljqp.mp3",
+          "src": "media/audio/PSOLA/mp3/ljqp.mp3",
           "name": "Const-Q Trans + Phoneme Classifier"
         }
       ]).then(function() {
@@ -112,25 +112,25 @@ function loadSong(songName) {
       playlist.clear();
       playlist.load([
         {
-          "src": "media/audio/WORLD/mp3/ch.mp3",
+          "src": "media/audio/PSOLA/mp3/ch.mp3",
           "name": "Source",
           "muted": false,
           "soloed": true
         },
         {
-          "src": "media/audio/WORLD/mp3/ct.mp3",
+          "src": "media/audio/PSOLA/mp3/ct.mp3",
           "name": "Target"
         },
         {
-          "src": "media/audio/WORLD/mp3/chq.mp3",
+          "src": "media/audio/PSOLA/mp3/chq.mp3",
           "name": "Const-Q Trans"
         },
         {
-          "src": "media/audio/WORLD/mp3/chp.mp3",
+          "src": "media/audio/PSOLA/mp3/chp.mp3",
           "name": "Phoneme Classifier"
         },
         {
-          "src": "media/audio/WORLD/mp3/chqp.mp3",
+          "src": "media/audio/PSOLA/mp3/chqp.mp3",
           "name": "Const-Q Trans + Phoneme Classifier"
         }
       ]).then(function() {

@@ -204,7 +204,7 @@ input[data-function*='swipe']:checked ~ .sidebar {
 
 .content {
     flex: 1;
-    padding: 80px 30px;
+    padding: 80px 210px 80px 30px;
     transform: translate3d(180px,0,0);
     transition: transform .3s;
 

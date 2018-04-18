@@ -4,6 +4,10 @@ side_name: Publications
 permalink: "/publications/"
 order: 2
 ---
+<h2 class="post-title">Publications</h2>
+
+<hr>
+
 <h3> Conference Proceedings </h3><br />
 <ul type="square">
 	<li><h4>Singing Expression Transfer from One Voice to Another for a Given Song</h4>

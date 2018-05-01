@@ -10,7 +10,7 @@ order: 2
 <ul type="square">
 	<li><h4>Singing Expression Transfer from One Voice to Another for a Given Song</h4>
 	<em><strong>Sangeon Yong</strong>, Juhan Nam</em><br />
-	Proceedings of the IEEE International Conference on Acoustics, Speech and Singal Processing (ICASSP), 2018 <a href="yong_ICASSP_2018.pdf" target="_blank">[pdf]</a> <!--<a href="">[demo]</a>-->
+	Proceedings of the IEEE International Conference on Acoustics, Speech and Singal Processing (ICASSP), 2018 <a href="yong_ICASSP_2018.pdf" target="_blank">[pdf]</a> <a href="yong_ICASSP_2018_slides.pdf" target="_blank">[slides]</a> <a href="../singing-expression-transfer/">[demo]</a>
 	</li>
 
 	<br />

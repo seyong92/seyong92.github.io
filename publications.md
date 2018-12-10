@@ -47,5 +47,4 @@ order: 2
 		Korea Patent Application, 10-2018-0151531, 2018
 	<li><h4>Singing Voice Expression Transfer System</h4>
 		<em>Juhan Nam, <strong>Sangeon Yong</strong></em><br />
-		Korea Patent Registration, 10-1925217, 2018</li>
-</ul>
+		Korea Patent Registration, 10-1925217, 2018</li></ul>

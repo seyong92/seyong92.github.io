@@ -35,8 +35,21 @@ order: 2
 
 <hr>
 
-<h3> Patents </h3>
-<ul type="square">
+### Patents
+
+* Singing Expression Transplantation System  
+_Juhan Nam, __Sangeon Yong___  
+US Patent Application, 16326649, 2019
+
+* Voice Timbre Conversion System and Method from the Professional Singer to User in Music Recording  
+_Juhan Nam, __Sangeon Yong___
+Korea Patent Application, 10-2018-0151531, 2018
+
+* Singing Voice Expression Transfer System
+_Juhan Nam, __Sangeon YONG___
+Korea Patent Grant, 10-1925217, 2018
+
+<!-- <ul type="square">
 	<li><h4>Singing Expression Transplantation System</h4>
 		<em>Juhan Nam, <strong>Sangeon Yong</strong></em><br />
 		US Patent Application, 16326649, 2019
@@ -49,4 +62,4 @@ order: 2
 		<em>Juhan Nam, <strong>Sangeon Yong</strong></em><br />
 		Korea Patent Grant, 10-1925217, 2018
 	</li>
-</ul>
+</ul> -->

@@ -17,7 +17,7 @@ Soonbeom Choi, Wonil Kim, Saebyul Park, __Sangeon Yong__, Juhan Nam
 _Proceedings of the IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP), 2020_ [[code]](https://github.com/SoonbeomChoi/BEGANSing){:target="_blank"}
 
 * Data Augmentation and Model Optimization for Piano Transcription  
-__Sangeon Yong__, Changhyun Kim, Jiwon Kim
+__Sangeon Yong__, Changhyun Kim, Jiwon Kim  
 _Music Information Retrieval Evaluation eXchange (MIREX) in the 20th International Society for Music Information Retrieval Conference (ISMIR), 2019_ [[pdf]](yong_MIREX_2019.pdf){:target="_blank"}
 
 * Singing Expression Transfer from One Voice to Another for a Given Song  

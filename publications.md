@@ -24,16 +24,22 @@ order: 2
 	</li>
 </ul>
 
-<hr>
+---
 
-<h3> Thesis </h3>
+### Thesis
+
+* Transferring Singing Expressions from One Voice to Another  
+***Sangeon Yong***  
+M.S. thesis, KAIST, 2017 [pdf](master-thesis.pdf){:target="_blank"}
+
+<!-- <h3> Thesis </h3>
 <ul type="square">
 	<li><h4>Transferring Singing Expressions from One Voice to Another</h4>
 	<em><strong>Sangeon Yong</strong></em><br />
 	M.S. thesis, KAIST, 2017 <a href="master-thesis.pdf" target="_blank">[pdf]</a></li>
-</ul>
+</ul> -->
 
-<hr>
+---
 
 ### Patents
 
@@ -48,18 +54,3 @@ Korea Patent Application, 10-2018-0151531, 2018
 * Singing Voice Expression Transfer System
 _Juhan Nam, __Sangeon YONG___
 Korea Patent Grant, 10-1925217, 2018
-
-<!-- <ul type="square">
-	<li><h4>Singing Expression Transplantation System</h4>
-		<em>Juhan Nam, <strong>Sangeon Yong</strong></em><br />
-		US Patent Application, 16326649, 2019
-	</li>
-	<li><h4>Voice Timbre Conversion System and Method from the Professional Singer to User in Music Recording</h4>
-		<em>Juhan Nam, <strong>Sangeon Yong</strong></em><br />
-		Korea Patent Application, 10-2018-0151531, 2018
-	</li>
-	<li><h4>Singing Voice Expression Transfer System</h4>
-		<em>Juhan Nam, <strong>Sangeon Yong</strong></em><br />
-		Korea Patent Grant, 10-1925217, 2018
-	</li>
-</ul> -->

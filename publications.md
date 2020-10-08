@@ -8,6 +8,8 @@ order: 2
 
 ### Conference Proceedings and Workshops
 
+---
+
 * PyTSMod: A Python Implementation of Time-Scale Modification Algorithm  
 __Sangeon Yong__, Soonbeom Choi, Juhan Nam  
 _Late Breaking Demo in the 21st International Society for Music Information Retrieval Conference (ISMIR), 2020_ [[pdf]](yong_ISMIR_LBD_2020.pdf){:target="_blank"} [[web poster]](https://seyong92.github.io/PyTSMod-ISMIR2020LBD){:target="_blank"} [[code]](https://github.com/KAIST-MACLab/PyTSMod){:target="_blank"}
@@ -36,6 +38,8 @@ _Proceedings of the 11th International Conference on Tangible, Embedded, and Emb
 
 ### Journals
 
+---
+
 * Use the Force: Incorporating Touch Force Sensors into Mobile Music Interaction  
 Edward Jangwon Lee, __Sangeon Yong__, Soonbeom Choi, Liwei Chan, Roshan Peiris, Juhan Nam  
 _Lecture Notes in Computer Science (revised selected papers of CMMR 2017), Vol. 11265, 1028_ [[pdf]](https://link.springer.com/chapter/10.1007/978-3-030-01692-0_38){:target="_blank"}
@@ -44,6 +48,8 @@ _Lecture Notes in Computer Science (revised selected papers of CMMR 2017), Vol. 
 
 ### Thesis
 
+---
+
 * Transferring Singing Expressions from One Voice to Another  
 __Sangeon Yong__  
 _M.S. thesis, KAIST, 2017_ [[pdf]](master-thesis.pdf){:target="_blank"}
@@ -51,6 +57,8 @@ _M.S. thesis, KAIST, 2017_ [[pdf]](master-thesis.pdf){:target="_blank"}
 ---
 
 ### Patents
+
+---
 
 * Singing Expression Transplantation System  
 Juhan Nam, __Sangeon Yong__  
@@ -67,6 +75,8 @@ _Korea Patent Grant, 10-1925217, 2018_
 ---
 
 ### Domestic
+
+---
 
 * 가창 음원의 음악적 표현 이식 시스템  
 ___용상언__, 남주한_  

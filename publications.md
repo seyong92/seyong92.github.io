@@ -34,6 +34,14 @@ _Proceedings of the 11th International Conference on Tangible, Embedded, and Emb
 
 ---
 
+### Journals
+
+* Use the Force: Incorporating Touch Force Sensors into Mobile Music Interaction  
+Edward Jangwon Lee, __Sangeon Yong__, Soonbeom Choi, Liwei Chan, Roshan Peiris, Juhan Nam  
+_Lecture Notes in Computer Science (revised selected papers of CMMR 2017), Vol. 11265, 1028_ [[pdf]](https://link.springer.com/chapter/10.1007/978-3-030-01692-0_38){:target="_blank"}
+
+---
+
 ### Thesis
 
 * Transferring Singing Expressions from One Voice to Another  

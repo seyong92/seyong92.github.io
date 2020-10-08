@@ -57,7 +57,7 @@ Juhan Nam, __Sangeon Yong__
 _US Patent Application, 16326649, 2019_
 
 * Voice Timbre Conversion System and Method from the Professional Singer to User in Music Recording  
-Juhan Nam, __Sangeon Yong__
+Juhan Nam, __Sangeon Yong__  
 _Korea Patent Application, 10-2018-0151531, 2018_
 
 * Singing Voice Expression Transfer System  

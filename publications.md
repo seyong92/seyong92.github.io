@@ -10,6 +10,10 @@ order: 2
 
 ---
 
+- PyTSMod: A Python Implementation of Time-Scale Modification Algorithm  
+  **Sangeon Yong**, Soonbeom Choi, Juhan Nam  
+  _Late Breaking Demo in the 21st International Society for Music Information Retrieval Conference (ISMIR), 2020_ [[pdf]](yong_ISMIR_LBD_2020.pdf){:target="\_blank"} [[web poster]](https://seyong92.github.io/PyTSMod-ISMIR2020LBD){:target="_blank"} [[code]](https://github.com/KAIST-MACLab/PyTSMod){:target="_blank"}
+
 - A Phoneme-informed Neural Network Model for Note-level Singing Transcription  
   **Sangeon Yong**, Li Su, Juhan Nam
   _Proceedings of the IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP), 2023_ **(accepted)**

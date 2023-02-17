@@ -10,20 +10,16 @@ order: 2
 
 ---
 
-- PyTSMod: A Python Implementation of Time-Scale Modification Algorithm  
-  **Sangeon Yong**, Soonbeom Choi, Juhan Nam  
-  _Late Breaking Demo in the 21st International Society for Music Information Retrieval Conference (ISMIR), 2020_ [[pdf]](yong_ISMIR_LBD_2020.pdf){:target="\_blank"} [[web poster]](https://seyong92.github.io/PyTSMod-ISMIR2020LBD){:target="_blank"} [[code]](https://github.com/KAIST-MACLab/PyTSMod){:target="_blank"}
-
 - A Phoneme-informed Neural Network Model for Note-level Singing Transcription  
-  **Sangeon Yong**, Li Su, Juhan Nam
+  **Sangeon Yong**, Li Su, Juhan Nam  
   _Proceedings of the IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP), 2023_ **(accepted)**
 
 - Neural Vocoder Feature Estimation for Dry Singing Voice Separation
-  Jaekwon Im, Soonbeom Choi, **Sangeon Yong**, Juhan Nam
+  Jaekwon Im, Soonbeom Choi, **Sangeon Yong**, Juhan Nam  
   _Proceedings of the 14th Asia Pacific Signal and Information Processing Association Annual Summit and Conference (APSIPA), 2022_ [[paper]](https://arxiv.org/abs/2211.15948){:target="\_blank"} [[demo]](https://jakeoneijk.github.io/mel-svs-demopage/){:target="\blank"}
 
 - Children’s Song Dataset for Singing Voice Research
-  Soonbeom Choi, Wonil Kim, Saebyul Park, **Sangeon Yong**, Juhan Nam
+  Soonbeom Choi, Wonil Kim, Saebyul Park, **Sangeon Yong**, Juhan Nam  
   _Late Breaking Demo in the 21st International Society for Music Information Retrieval Conference (ISMIR), 2020_ [[pdf]](choi_ISMIR_LBD_2020.pdf){:target="\_blank"} [[dataset link]](https://zenodo.org/record/4916302){:target="\_blank"}
 
 - PyTSMod: A Python Implementation of Time-Scale Modification Algorithm  

@@ -72,9 +72,9 @@ order: 2
 
 ---
 
-- Singing Expression Transplantation System  
+- Singing Expression Transfer System  
   Juhan Nam, **Sangeon Yong**  
-  _US Patent Application, 16326649, 2019_
+  _US Patent Grant, 10885894, 2021_
 
 <!-- - Voice Timbre Conversion System and Method from the Professional Singer to User in Music Recording
   Juhan Nam, **Sangeon Yong**

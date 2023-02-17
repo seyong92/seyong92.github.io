@@ -14,11 +14,11 @@ order: 2
   **Sangeon Yong**, Li Su, Juhan Nam  
   _Proceedings of the IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP), 2023_ **(accepted)**
 
-- Neural Vocoder Feature Estimation for Dry Singing Voice Separation
+- Neural Vocoder Feature Estimation for Dry Singing Voice Separation  
   Jaekwon Im, Soonbeom Choi, **Sangeon Yong**, Juhan Nam  
   _Proceedings of the 14th Asia Pacific Signal and Information Processing Association Annual Summit and Conference (APSIPA), 2022_ [[paper]](https://arxiv.org/abs/2211.15948){:target="\_blank"} [[demo]](https://jakeoneijk.github.io/mel-svs-demopage/){:target="\blank"}
 
-- Children’s Song Dataset for Singing Voice Research
+- Children’s Song Dataset for Singing Voice Research  
   Soonbeom Choi, Wonil Kim, Saebyul Park, **Sangeon Yong**, Juhan Nam  
   _Late Breaking Demo in the 21st International Society for Music Information Retrieval Conference (ISMIR), 2020_ [[pdf]](choi_ISMIR_LBD_2020.pdf){:target="\_blank"} [[dataset link]](https://zenodo.org/record/4916302){:target="\_blank"}
 

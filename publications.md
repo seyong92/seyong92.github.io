@@ -28,7 +28,7 @@ order: 2
 
 - Korean Singing Voice Synthesis Based on Auto-Regressive Boundary Equilibrium GAN  
   Soonbeom Choi, Wonil Kim, Saebyul Park, **Sangeon Yong**, Juhan Nam  
-  _Proceedings of the IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP), 2020_ [[pdf]](https://mac.kaist.ac.kr/pubs/ChoiKimParkYongNam-icassp2020.pdf){:target="\_blank"} [[code]](https://github.com/SoonbeomChoi/BEGANSing){:target="_blank"}
+  _Proceedings of the IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP), 2020_ [[pdf]](https://mac.kaist.ac.kr/pubs/ChoiKimParkYongNam-icassp2020.pdf){:target="\_blank"} [[web poster]](https://soonbeomchoi.github.io/saebyulgan-blog/){:target="_blank"} [[code]](https://github.com/SoonbeomChoi/BEGANSing){:target="_blank"}
 
 - Data Augmentation and Model Optimization for Piano Transcription  
   **Sangeon Yong**, Changhyun Kim, Jiwon Kim  

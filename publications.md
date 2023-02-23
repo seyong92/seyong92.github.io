@@ -10,7 +10,7 @@ order: 2
 
 ---
 
-- A Phoneme-informed Neural Network Model for Note-level Singing Transcription  
+- A Phoneme-Informed Neural Network Model for Note-Level Singing Transcription  
   **Sangeon Yong**, Li Su, Juhan Nam  
   _Proceedings of the IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP), 2023_ **(accepted)**
 
@@ -54,7 +54,7 @@ order: 2
 
 - Use the Force: Incorporating Touch Force Sensors into Mobile Music Interaction  
   Edward Jangwon Lee, **Sangeon Yong**, Soonbeom Choi, Liwei Chan, Roshan Peiris, Juhan Nam  
-  _Lecture Notes in Computer Science (revised selected papers of CMMR 2017), Vol. 11265, 1028_ [[pdf]](https://link.springer.com/chapter/10.1007/978-3-030-01692-0_38){:target="_blank"}
+  _Lecture Notes in Computer Science (revised selected papers of CMMR 2017), Vol. 11265, 2018_ [[pdf]](https://link.springer.com/chapter/10.1007/978-3-030-01692-0_38){:target="_blank"}
 
 ---
 

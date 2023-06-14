@@ -12,11 +12,11 @@ order: 2
 
 - A Phoneme-Informed Neural Network Model for Note-Level Singing Transcription  
   **Sangeon Yong**, Li Su, Juhan Nam  
-  _Proceedings of the IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP), 2023_ **(accepted)**
+  _Proceedings of the IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP), 2023_ [[paper]](https://arxiv.org/abs/2304.05917){:target="\_blank"} [[demo]](https://seyong92.github.io/phoneme-informed-transcription-blog/){:target="\_blank"}
 
 - Neural Vocoder Feature Estimation for Dry Singing Voice Separation  
   Jaekwon Im, Soonbeom Choi, **Sangeon Yong**, Juhan Nam  
-  _Proceedings of the 14th Asia Pacific Signal and Information Processing Association Annual Summit and Conference (APSIPA), 2022_ [[paper]](https://arxiv.org/abs/2211.15948){:target="\_blank"} [[demo]](https://jakeoneijk.github.io/mel-svs-demopage/){:target="\blank"}
+  _Proceedings of the 14th Asia Pacific Signal and Information Processing Association Annual Summit and Conference (APSIPA), 2022_ [[paper]](https://arxiv.org/abs/2211.15948){:target="\_blank"} [[demo]](https://jakeoneijk.github.io/mel-svs-demopage/){:target="\_blank"}
 
 - Children’s Song Dataset for Singing Voice Research  
   Soonbeom Choi, Wonil Kim, Saebyul Park, **Sangeon Yong**, Juhan Nam  

@@ -12,7 +12,7 @@ order: 2
 
 - A Real-Time Lyrics Alignment System Using Chroma and Phonetic Features for Classicial Vocal Performance  
   Jiyun Park, **Sangeon Yong**, Taegyun Kwon, Juhan Nam  
-  _Proceedings of the IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP), 2024 (accepted)_
+  _Proceedings of the IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP), 2024_ [[paper]](https://arxiv.org/abs/2401.09200){:target="\_blank"} [[demo]](https://laurenceyoon.github.io/real-time-lyrics-alignment/){:target="\_blank"}
 
 - A Phoneme-Informed Neural Network Model for Note-Level Singing Transcription  
   **Sangeon Yong**, Li Su, Juhan Nam  
@@ -65,6 +65,10 @@ order: 2
 ### Thesis
 
 ---
+
+- Improving Note-Level Singing Transcription with Phonetic Information and Note Label Refinement
+  **Sangeon Yong**
+  _Ph.D. thesis, KAIST, 2024_
 
 - Transferring Singing Expressions from One Voice to Another  
   **Sangeon Yong**  

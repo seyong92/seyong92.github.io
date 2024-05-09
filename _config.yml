@@ -1,11 +1,11 @@
 # Site settings
 title: Sangeon Yong's Homepage
-email: koragon2@kaist.ac.kr
+email: sangeon.yong@audai.co
 baseurl: "" # the subpath of your site, e.g. /blog
 #url: "http://yourdomain.com" # the base hostname & protocol for your site
 
 # Sidebar settings
-description: Ph.D Student in GSCT, KAIST.
+description: CTO in AudAi Inc.
 
 # Social icons
 #facebook: username
